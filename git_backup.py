@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from git import Repo
 
 repo = Repo('/home/pi/ut_real')
